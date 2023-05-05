@@ -1,6 +1,6 @@
 ---
 name: "@types/node"
-version: 13.13.5
+version: 16.x
 type: npm
 summary: TypeScript definitions for Node.js
 homepage: https://github.com/DefinitelyTyped/DefinitelyTyped#readme
